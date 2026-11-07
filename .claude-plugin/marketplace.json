@@ -1,0 +1,11 @@
+{
+  "name": "page2party",
+  "owner": { "name": "Page2Party" },
+  "plugins": [
+    {
+      "name": "page2party",
+      "source": "./",
+      "description": "Create and edit Page2Party invitations from Claude."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "page2party": {
+      "type": "http",
+      "url": "https://page2.party/mcp/page2party"
+    }
+  }
+}

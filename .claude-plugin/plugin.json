@@ -1,0 +1,8 @@
+{
+  "name": "page2party",
+  "version": "0.1.0",
+  "description": "Create and edit Page2Party invitations from Claude. Pick a theme, fill in the details, translate, and get a preview link.",
+  "author": { "name": "Page2Party", "url": "https://page2.party" },
+  "homepage": "https://page2.party",
+  "keywords": ["invitation", "wedding", "rsvp", "page2party"]
+}
